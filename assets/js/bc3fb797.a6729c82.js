@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwot_jp_cg=self.webpackChunkwot_jp_cg||[]).push([[737],{6002:function(s){s.exports={blogPosts:[]}}}]);
